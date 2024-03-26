@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\johan\\source\\repos\\AlmacenamientosDatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F20E390-34F5-4825-85E8-329B53915317}|AlmacenamientosDatos.csproj|c:\\users\\johan\\source\\repos\\almacenamientosdatos\\txt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F20E390-34F5-4825-85E8-329B53915317}|AlmacenamientosDatos.csproj|solutionrelative:txt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F20E390-34F5-4825-85E8-329B53915317}|AlmacenamientosDatos.csproj|c:\\users\\johan\\source\\repos\\almacenamientosdatos\\rtf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F20E390-34F5-4825-85E8-329B53915317}|AlmacenamientosDatos.csproj|solutionrelative:rtf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F20E390-34F5-4825-85E8-329B53915317}|AlmacenamientosDatos.csproj|c:\\users\\johan\\source\\repos\\almacenamientosdatos\\txt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7F20E390-34F5-4825-85E8-329B53915317}|AlmacenamientosDatos.csproj|solutionrelative:txt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7F20E390-34F5-4825-85E8-329B53915317}|AlmacenamientosDatos.csproj|c:\\users\\johan\\source\\repos\\almacenamientosdatos\\rtf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F20E390-34F5-4825-85E8-329B53915317}|AlmacenamientosDatos.csproj|solutionrelative:rtf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,26 +27,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Txt.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\AlmacenamientosDatos\\Txt.cs",
-              "RelativeDocumentMoniker": "Txt.cs",
-              "ToolTip": "C:\\Users\\johan\\source\\repos\\AlmacenamientosDatos\\Txt.cs",
-              "RelativeToolTip": "Txt.cs",
-              "ViewState": "AQIAAF4AAACAMjMzMzMIwGQAAAAnAAAA",
+              "Title": "Rtf.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\AlmacenamientosDatos\\Rtf.cs",
+              "RelativeDocumentMoniker": "Rtf.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\AlmacenamientosDatos\\Rtf.cs",
+              "RelativeToolTip": "Rtf.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIAdwBUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T20:52:18.2Z",
+              "WhenOpened": "2024-03-26T22:03:51.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Txt.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\AlmacenamientosDatos\\Txt.cs",
-              "RelativeDocumentMoniker": "Txt.cs",
-              "ToolTip": "C:\\Users\\johan\\source\\repos\\AlmacenamientosDatos\\Txt.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Txt.cs [Dise\u00F1o]",
+              "Title": "Rtf.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\AlmacenamientosDatos\\Rtf.cs",
+              "RelativeDocumentMoniker": "Rtf.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\AlmacenamientosDatos\\Rtf.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Rtf.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T20:45:05.889Z",
+              "WhenOpened": "2024-03-26T22:03:48.879Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
