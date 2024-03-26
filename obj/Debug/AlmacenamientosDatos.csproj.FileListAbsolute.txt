@@ -1,0 +1,14 @@
+C:\Users\johan\source\repos\AlmacenamientosDatos\bin\Debug\AlmacenamientosDatos.exe.config
+C:\Users\johan\source\repos\AlmacenamientosDatos\bin\Debug\AlmacenamientosDatos.exe
+C:\Users\johan\source\repos\AlmacenamientosDatos\bin\Debug\AlmacenamientosDatos.pdb
+C:\Users\johan\source\repos\AlmacenamientosDatos\obj\Debug\AlmacenamientosDatos.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\AlmacenamientosDatos\obj\Debug\AlmacenamientosDatos.frmCsv.resources
+C:\Users\johan\source\repos\AlmacenamientosDatos\obj\Debug\AlmacenamientosDatos.frmDatos.resources
+C:\Users\johan\source\repos\AlmacenamientosDatos\obj\Debug\AlmacenamientosDatos.Properties.Resources.resources
+C:\Users\johan\source\repos\AlmacenamientosDatos\obj\Debug\AlmacenamientosDatos.frmRtf.resources
+C:\Users\johan\source\repos\AlmacenamientosDatos\obj\Debug\AlmacenamientosDatos.frmTxt.resources
+C:\Users\johan\source\repos\AlmacenamientosDatos\obj\Debug\AlmacenamientosDatos.frmXml.resources
+C:\Users\johan\source\repos\AlmacenamientosDatos\obj\Debug\AlmacenamientosDatos.csproj.GenerateResource.cache
+C:\Users\johan\source\repos\AlmacenamientosDatos\obj\Debug\AlmacenamientosDatos.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\AlmacenamientosDatos\obj\Debug\AlmacenamientosDatos.exe
+C:\Users\johan\source\repos\AlmacenamientosDatos\obj\Debug\AlmacenamientosDatos.pdb
